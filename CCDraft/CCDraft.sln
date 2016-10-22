@@ -5,6 +5,16 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CCDraft", "CCDraft\CCDraft.pyproj", "{D794C0E9-3702-4B0F-8ED1-47EA220ECF4D}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Chap1Total", "..\..\..\..\Documents\Visual Studio 2015\Projects\Chap1Total\Chap1Total\Chap1Total.pyproj", "{B4BDB8C6-5761-4252-BFE3-C05307288BD3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Chap2Total", "..\..\..\..\Documents\Visual Studio 2015\Projects\Chap1Total\Chap2Total\Chap2Total.pyproj", "{42D0B584-103E-4CA8-B154-272519DDE98A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Chap3Total", "..\..\..\..\Documents\Visual Studio 2015\Projects\Chap1Total\Chap3Total\Chap3Total.pyproj", "{D4CB7DA5-12E8-42ED-A74D-B57AB427D507}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Chap5Total", "Chap5Total\Chap5Total.pyproj", "{5146A25C-61E4-4ED4-AC66-D6AE9D0ECEC5}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Chap6Total", "Chap6Total\Chap6Total.pyproj", "{E8D4112B-BE16-4106-AF15-0E4431E50534}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +23,16 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{D794C0E9-3702-4B0F-8ED1-47EA220ECF4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D794C0E9-3702-4B0F-8ED1-47EA220ECF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4BDB8C6-5761-4252-BFE3-C05307288BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4BDB8C6-5761-4252-BFE3-C05307288BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D0B584-103E-4CA8-B154-272519DDE98A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D0B584-103E-4CA8-B154-272519DDE98A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4CB7DA5-12E8-42ED-A74D-B57AB427D507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4CB7DA5-12E8-42ED-A74D-B57AB427D507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5146A25C-61E4-4ED4-AC66-D6AE9D0ECEC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5146A25C-61E4-4ED4-AC66-D6AE9D0ECEC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8D4112B-BE16-4106-AF15-0E4431E50534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8D4112B-BE16-4106-AF15-0E4431E50534}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
