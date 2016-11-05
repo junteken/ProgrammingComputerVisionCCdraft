@@ -4,8 +4,12 @@ from PIL import Image
 from pylab import *
 from scipy.cluster.vq import *
 
+#N(\mu, \sigma^2), 
+#sigma * np.random.randn(...) + mu
+#Generate Matrix 100-row, 2-col dimension which have normal distribution N(0, 1.5^2)
 class1= 1.5* randn(100,2)
 print('class1=' ,class1)
+#Generate Matrix 100-row, 2-col dimension which have normal distribution N(5, 1)
 class2= randn(100,2) + bytearray([5,5])
 print('class1=' ,class2)
 features= vstack((class1, class2))

@@ -252,3 +252,4 @@ paket-files/
 *.sln.iml
 *.wav
 *.pyc
+/CCDraft/Chap7Total/ukbench
